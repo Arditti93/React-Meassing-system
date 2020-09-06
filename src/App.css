@@ -1,0 +1,128 @@
+
+      * {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+
+      .mainAppWrap {
+        display:inline-block;
+        min-width: 90%;
+        min-height: 90%;
+        padding: 2% 0%;
+        background-color: rgb(255, 166, 236);
+      }
+
+
+      .searchBox {
+        float: right;
+        width: 70%;
+        padding: 1% 0%;
+        margin: 0% 3%;
+        border: none;
+        border-radius: 8px;
+        font-size: 1.8vw;
+        text-align: center;
+        background-color: rgba(255, 255, 255, 0.6);
+      }
+
+      .searchBarLogo {
+        float: right;
+        width: 4%;
+      }
+
+      .sideBarDiv {
+        width: 15%;
+        float: left;
+        display: flex;
+      }
+
+      .globalMessageArea {
+        width: 82%;
+        padding: 2% 0%;
+        margin-top: 2%;
+        border-radius: 1vw;
+        border: none;
+        float: left;
+        background-color: rgba(255, 255, 255, 0.4);
+      }
+
+      .messageDisplay {
+        width: 90%;
+        padding: 1%;
+        margin: auto;
+        border-radius: 1vw;
+        border: none;
+        background-color: rgba(255, 255, 255, 0.4);
+      }
+
+      .messageDisplay p {
+        font-size: 1.8vw;
+      }
+
+      .messageDisplay h1 {
+        font-size: 3vw;
+        line-height: 1vh;
+        text-align: center;
+        color: rgb(158, 158, 158);
+      }
+
+      .deleteButton, .saveButton {
+        border-radius: 15%;
+        border: none;
+        color: rgb(128, 128, 128);
+        float: right;
+        width: 3vw;
+        height: 3vw;
+        font-size: 1.5vw;
+        text-align: center;
+        margin: 1%;
+      }
+
+      .profileImg {
+        width: 7%;
+        margin-right: 3%;
+      }
+
+      .messageInput {
+        width: 90%;
+        padding: 2% 0%;
+        margin: auto;
+        /* background-color: rgba(255, 255, 255, 0.2); */
+      } 
+
+      .messageInput input {
+        display: inline-block;
+        width: 70%;
+        padding: 2% 0%;
+        margin: 0% 3%;
+        border: none;
+        border-radius: 8px;
+        font-size: 1.8vw;
+        text-align: center;
+        background-color: rgba(255, 255, 255, 0.6);
+      }
+
+      .messageInput button {
+        display: inline-block;
+        width: 16%;
+        padding: 2% 0%;
+        margin: 0% 3%;
+        border: none;
+        border-radius: 8px;
+        text-align: center;
+        background-color: rgb(158, 158, 158);
+        color: white;
+        box-shadow: 2px 2px rgba(100, 100, 100, 0.3);
+      }
+
+      .messageInput button:hover {
+        background-color: rgb(120, 120, 120);
+      } 
+
+      .user {
+        background-color: rgba(255, 255, 255, 0.4);
+        border: none;
+        border-radius: 8px;
+        margin: 1%;
+        padding: 3%;
+      }
+/* } */
