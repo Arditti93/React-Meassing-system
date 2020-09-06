@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React-Meassing-system
 
 A front end messaging system built with class componets and fucntions that allow the user to 
@@ -9,3 +10,6 @@ a user name and picture are also sent with every message.
 A simple CSS design is used to create a slack like interface.
 
 N.B search bar is not functional at the momemt neither is the Nav bar. 
+=======
+# React-Messaging
+>>>>>>> master
