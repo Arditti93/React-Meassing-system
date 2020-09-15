@@ -1,7 +1,7 @@
 
 # React-Messaging-system
 
-A front end messaging system built with class componets and fucntions that allow the user to 
+A front end messaging system built with class componets and functions that allow the user to 
 send a new message delete messages and save messages.
 
 Preivous messages are stored as state inside an array and new messages when sent are added to the array
