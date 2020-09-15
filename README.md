@@ -1,5 +1,5 @@
 
-# React-Meassing-system
+# React-Messaging-system
 
 A front end messaging system built with class componets and fucntions that allow the user to 
 send a new message delete messages and save messages.
