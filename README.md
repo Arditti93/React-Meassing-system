@@ -11,5 +11,5 @@ A simple CSS design is used to create a slack like interface.
 
 N.B search bar is not functional at the momemt neither is the Nav bar. 
 
-##Demo
+## Demo
 ![slack Demo](react.gif)
